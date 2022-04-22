@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="hoja-de-vida.css">
+    <title>CV</title>
+</head>
+<body>
+    <table>
+        <tr>
+        <th class="name">Nombres y Apellidos</th>
+        <th class="dpi">Documentos Personal de identificación</th>
+        </tr>
+        <tr>
+        <td class="ale">Alejandro II de Macedonia	</td>
+        <td class="cui">4598321456780953</td>
+        </tr>
+        
+        <img class="alejo" src="https://th.bing.com/th/id/R.4f6f6f66949af1d6b69e4571892e7524?rik=PR2KqjBkAi%2frBQ&pid=ImgRaw&r=0">
+        <tr>
+
+            <th>Fecha de Nacimiento</th>
+            <th>Lugar de Nacimiento</th>
+            </tr>
+            <tr>
+            <td class="date">20 de julio del año 356</td>
+            <td class="bab">Babilonia</td>
+        </tr>
+        
+        <tr>
+            <th class="state">Estado Civil</th>
+            <th class="edades">Edad</th>
+        </tr>
+            <tr>
+            <td class="casado">Casado</td>
+            <td class="years">33 años</td>
+        </tr>
+
+        <tr>
+            <th class="lugar">Lugar de Residencia</th>
+            <th class="lugar">Dirección de Residencia</th>
+            </tr>
+            <tr>
+            <td class="grecia">Macedonia, Hegemenón, Grecia</td>
+            <td class="av">Avenida Loma, 53. 28250</td>
+        </tr>
+    
+        <tr>
+            <th class="gmail">Email</th>
+            <th>Numero de Celular</th>
+            </tr>
+            <tr>
+            <td class="mail">el.grande@gmail.com</td>
+            <td class="cell">+340 2424-6767</td>
+        </tr>
+</body>
+</html>
